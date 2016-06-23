@@ -1,0 +1,23 @@
+{
+  "name": "threex.openvrutils",
+  "homepage": "https://github.com/drGrove/threex.openvrutils",
+  "authors": [
+    "Danny Grove <danny@drgrovellc.com>",
+    "Conner Brooks <connerbrooks@gmail.com>"
+  ],
+  "description": "OpenVR utils for use with three.js",
+  "main": "threex.openvrutils.js",
+  "keywords": [
+    "three.js",
+    "openvr",
+    "webvr"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
